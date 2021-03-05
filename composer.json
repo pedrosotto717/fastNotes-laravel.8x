@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "fastNotes",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "App of fastNotes",
     "keywords": [
         "framework",
         "laravel"

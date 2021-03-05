@@ -463,3 +463,49 @@ body{
 ::-webkit-scrollbar-thumb {
     background:  #36B2B8;
 }
+
+/* --------------------- Pagination --------------------------*/
+
+nav.pag-nav{
+	display: block;
+	width: 90%;
+	margin: 1rem auto;
+}
+
+ul.pagination{
+	display: flex;
+	justify-content: center;
+	padding: .5rem;
+	width: 100%;
+}
+
+.disabled{
+	opacity: 0;
+	visibility: hidden;
+}
+
+ul.pagination li{
+	list-style: none;
+	background-color: #fafafa;
+	margin-left: .5rem;
+	box-shadow: 0 2px 5px -1px #ccc;
+	background-color: #fff;
+}
+
+ul.pagination li.active{
+	box-shadow: 0 3px 5px -1px #ccc;
+	background-color: var(--primary-color);
+}
+
+ul.pagination a,
+ul.pagination li.active span{
+	text-decoration: none;
+	width: 40px;
+	height: 40px;
+	display: inline-flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	color: #000;
+	font-size: 1rem;
+}

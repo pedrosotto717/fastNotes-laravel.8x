@@ -15,9 +15,8 @@ class HomeController extends Controller
 
 	public function index()
 	{
-		// \App\Models\User::with('notes')->get();
 		return view('home',[
-      'notes' => Auth::user()->notes()->get()
+      'notes' => Auth::user()->notes()->paginate(25)
     ]);
 	}
 }

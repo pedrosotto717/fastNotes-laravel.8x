@@ -7,6 +7,8 @@
     	<x-notes :notes='$notes'/>
     </div>
 
+		{{ $notes->links('partials.pagination') }}
+
     <a href="{{ route('notes.create') }}" title="add Note" class="add-note">+</a>
 
 @endsection
