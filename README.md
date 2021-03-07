@@ -11,12 +11,17 @@ This is an application to create, edit and save fast notes.
 
 ## Screenshots
 
-<img class="screenshots"  style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;"  src="./static/register.png" alt="View register">
-<img class="screenshots"  style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;" src="./static/login.png" alt="View login">
-<img class="screenshots"  style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;" src="./static/home.png" alt="View home">
-<img class="screenshots" style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;"  src="./static/home-2.png" alt="View home">
-<img class="screenshots"  style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;" src="./static/create.png" alt="View create">
-<img class="screenshots" style="object-fit: cover;width: 100%;outline: 1px solid #ccc;margin: 0 auto;margin-bottom: 2.5rem;max-width: 720px;display: block;"  src="./static/show.png" alt="View show">
+<img class="screenshots"  style="object-fit: cover;outline: 1px solid #000;max-width: 720px;"  src="./static/register.png" alt="View register">
+<br/>
+<img class="screenshots"  style="object-fit: cover;outline: 1px solid #000;max-width: 720px;" src="./static/login.png" alt="View login">
+<br/>
+<img class="screenshots"  style="object-fit: cover;outline: 1px solid #000;max-width: 720px;" src="./static/home.png" alt="View home">
+<br/>
+<img class="screenshots" style="object-fit: cover;outline: 1px solid #000;max-width: 720px;"  src="./static/home-2.png" alt="View home">
+<br/>
+<img class="screenshots"  style="object-fit: cover;outline: 1px solid #000;max-width: 720px;" src="./static/create.png" alt="View create">
+<br/>
+<img class="screenshots" style="object-fit: cover;outline: 1px solid #000;max-width: 720px;"  src="./static/show.png" alt="View show">
 
 ## How to use
 
