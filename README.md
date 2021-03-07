@@ -1,19 +1,4 @@
 
-<style type="text/css">
-	img.screenshots{
-		object-fit: cover;
-		width: 100%;
-		height: 100%;
-		object-position: center;
-		box-shadow: 0 10px 10px -8px #ccc;
-		outline: 1px solid #ccc;
-		margin: 0 auto;
-		margin-bottom: 2.5rem;
-		max-width: 720px;
-		display: block;
-	}
-</style>
-
 # SimpleNotes in Laravel
 
 This is an application to create, edit and save fast notes.
